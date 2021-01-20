@@ -1,0 +1,8 @@
+{
+    "env": {
+        "BD_USER": "enrique",
+        "BD_PASSWORD": "Grzi2ISZ7DE0",
+        "DB_NAME": "places",
+        "JWT_KEY": "supersecret_imagine"
+    }
+}
